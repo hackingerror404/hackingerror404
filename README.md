@@ -1,10 +1,10 @@
-## Hello, I'm Jayden Hacking, a software engineer with experience in full-stack web development and a love for filmmaking!  
+## Hello, I'm Hazel Hacking, a software engineer with experience in full-stack web development and a love for filmmaking!  
 
-### Finished Software development projects:
-[Update here once a project has been completed].
+### Completed Personal Projects:
+- [Cloud Video & Encoder](https://github.com/hackingerror404/CloudVideoEncoder) - A Linux application designed to automate encoding a folder of videos to settings of your choice, then uploading them to an Amazon S3 bucket.
 
 ### I'm currently working on:
-[Update here once a project has been started, with a public GitHub repo].
+I just finished my first project! And looking for new ideas to work on.
 
 ### Where can you reach me?:
 - **Email**: hackingerror404@gmail.com
